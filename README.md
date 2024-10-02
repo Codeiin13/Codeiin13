@@ -8,5 +8,6 @@
     <li style="margin: 10px; font-size: 18px; font-weight: bold; color: #333;">• JavaScript</li>
     <li style="margin: 10px; font-size: 18px; font-weight: bold; color: #333;">• Python</li>
     <!-- Adicione suas habilidades aqui -->
+python
   </ul>
 </div>
