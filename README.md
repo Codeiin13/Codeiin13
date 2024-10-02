@@ -4,18 +4,6 @@
   <img src="https://img.shields.io/badge/-Minhas%20Habilidades-333333?style=for-the-badge&logo=Circle" />
   <br>
   <span style="font-size: 18px; font-weight: bold; color: #333;">
-    • HTML (80%)
-    • CSS (90%)
-    • JavaScript (70%)
-    • Python (85%)
-    <!-- Adicione suas habilidades e porcentagens aqui -->
-  </span>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Minhas%20Habilidades-333333?style=for-the-badge&logo=Circle" />
-  <br>
-  <span style="font-size: 18px; font-weight: bold; color: #333;">
     • HTML <img src="https://progress-bar.dev/80/?title=HTML" />
     • CSS <img src="https://progress-bar.dev/90/?title=CSS" />
     • JavaScript <img src="https://progress-bar.dev/70/?title=JavaScript" />
@@ -23,3 +11,4 @@
     <!-- Adicione suas habilidades e porcentagens aqui -->
   </span>
 </div>
+
